@@ -39,6 +39,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "stss": "^0.3.0"
+    "stss": "git@github.com:pebblecode/STSS.git#9395df8b343581d258b1593f659c4280e33c10df"
   }
 }
